@@ -2,8 +2,6 @@
 
 To train the model
 
-
-To train the model
 1. Please keep the face_mask_detector_model_training.py and requirements.txt in the folder root directory.
 2. Create a folder with the name ‘dataset’ in the root directory
 3. Under the dataset, folder create two new folders called ‘with_mask’ and ‘without_mask’
