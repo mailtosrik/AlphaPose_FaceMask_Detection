@@ -1,5 +1,9 @@
 # CS510_Final_Project
 
+TO VIEW SAMPLE OUTPUT
+----------------------
+We have uploaded sample output snippets that was generated using our solution under `Output_snippets` folder
+
 TO TRAIN THE MODEL
 -------------------
 
