@@ -1,4 +1,4 @@
-# CS510_Final_Project
+# AlphaPose_FaceMask_Detection
 
 TO VIEW SAMPLE OUTPUT
 ----------------------
