@@ -1,4 +1,4 @@
-# AlphaPose_FaceMask_Detection
+# AlphaPose FaceMask Detection
 
 TO VIEW SAMPLE OUTPUT
 ----------------------
